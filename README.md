@@ -1,8 +1,5 @@
 # Image Sharing System
 
-## Group Members
-Ezgi Eren
-150119515
 
 ## Project Description
 In this project, we have tried to implement a secure image sharing system with various security features to ensure the confidentiality, integrity and accuracy of images shared between users.
